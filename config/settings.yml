@@ -63,6 +63,7 @@ adsense_plugin:
       - fluid - for in-feed ad units
       - 728*90 - leaderboard
       - 336*280 - large rectangle
+      - 336*300 - Very large rectangle
       - 300*250 - medium rectangle
       - 970*90 - large leaderboard
       - 970*250 - billboard
